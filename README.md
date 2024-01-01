@@ -23,4 +23,4 @@ Here are some of my key IoT projects (private repos, visible to collaborators on
 - Email: sumit.basumallick@gmail.com  
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitbasumallick&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitbasumallick&show_icons=true&theme=gruvbox&count_private=true)
